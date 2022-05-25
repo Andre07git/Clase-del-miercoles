@@ -1,0 +1,3 @@
+$ git push origin main
+remote: Permission to LucianaSalinardi/prueba-intro-informatica-git.git denied to josiassbot.
+fatal: unable to access 'https://github.com/LucianaSalinardi/prueba-intro-informatica-git/': The requested URL returned error: 403
